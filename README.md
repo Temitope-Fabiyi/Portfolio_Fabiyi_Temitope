@@ -3,7 +3,8 @@
 
 ## Contents
 **[Bikestores](https://github.com/Temitope-Fabiyi/Portfolio_Fabiyi_Temitope/edit/main/README.md#bikestores)**  
-**[Screenshots_Webscraping_Project](https://github.com/Temitope-Fabiyi/Portfolio_Fabiyi_Temitope/edit/main/README.md#screenshots_webscraping_project)**
+**[Screenshots_Webscraping_Project](https://github.com/Temitope-Fabiyi/Portfolio_Fabiyi_Temitope/edit/main/README.md#screenshots_webscraping_project)**  
+**[Sales_Dataset](https://github.com/Temitope-Fabiyi/Portfolio_Fabiyi_Temitope/edit/main/README.md#sales_dataset)**
 
 
 
@@ -30,6 +31,13 @@
 * Tools used🛠️: Python 🛠️
 * Project Link:
   * [Screenshots_Webscraping_Project](https://github.com/Temitope-Fabiyi/Python-Projects/blob/First-Web-scraping-project/Screenshots_webscraping_project.md)
+
+### Sales_Dataset
+
+* Description: The objective of this project is to extract relevant data from the company's database by utilizing SQL queries to ensure accurate and efficient data retrieval.
+* Tools used🛠️: SQL 🛠️
+* Project Link:
+  * [Sales Dataset](https://github.com/Temitope-Fabiyi/SQL_Projects/blob/main/Sales_Dataset/Sales_Dataset.md)
 
 
 
